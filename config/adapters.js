@@ -44,7 +44,7 @@ module.exports.adapters = {
    
    mongo: {
       host: 'localhost',
-      database: 'vibes',
+      database: 'example',
       port: 27017,
       schema: false,
       nativeParser: false,
