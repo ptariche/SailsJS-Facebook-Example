@@ -12,6 +12,6 @@ passport.use(new FacebookStrategy({
                 callbackURL: "http://localhost:1337/auth/facebook/callback",
                 },
 
-Sails.JS is an impressive Node.JS Framework, and I've beeb playing around with it for the last two-weeks. I hope you enjoy and utilize this framework as much as I do. 
+Sails.JS is an impressive Node.JS Framework, and I've been playing around with it for the last two-weeks. I hope you enjoy and utilize this framework as much as I do. 
 
 Note: The current settings are built to use Mongo. You can change to local by changing the adapter settings.
