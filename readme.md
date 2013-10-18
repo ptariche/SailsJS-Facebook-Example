@@ -1,4 +1,5 @@
-#Here is a basic example on how to intergrate Facebook Connect with Sails.JS
+Basic example to intergrate Facebook with Sails.JS
+---------------------------------------------------
 
 Please follow the instructions on [sailsjs.org](http://sailsjs.org) to launch SailsJS.
 
